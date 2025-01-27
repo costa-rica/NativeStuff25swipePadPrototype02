@@ -4,6 +4,8 @@
 
 Swipe pad prototype version 02
 
+- This one will be saved as working references before adding the other circle options in Native Stuff 26
+
 ## Installations
 
 1. Navigation
